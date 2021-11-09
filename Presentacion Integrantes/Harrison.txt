@@ -1,0 +1,6 @@
+Nombre: Harrison S.
+Apellido: Buitrago Ch. 
+Telefono: 3118308963
+Ciudad: Cajica - Cundinamarca
+Descripcion corta: Administrador de redes, trabajador independiente con firmes intenciones de aprender 
+    acerca del desarrollo web con la intencion de ampliar el portafolio de servicios a prestar a los clientes
